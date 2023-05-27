@@ -12,7 +12,7 @@ class Mangoes extends StatelessWidget {
             Container(
               alignment: Alignment.topCenter,
               height: 900,
-              width: 385,
+              width: 395,
               child: Image.asset('assets/mangoes.png'),
             ),
             Positioned(
@@ -20,7 +20,7 @@ class Mangoes extends StatelessWidget {
               child: Column(
                 children: [
                   Container(
-                    width: 385,
+                    width: 395,
                     height: 220,
                     decoration: BoxDecoration(
                       color: Color(0xffA0E7E5),
@@ -65,7 +65,7 @@ class Mangoes extends StatelessWidget {
                   ),
                   Container(
                     padding: EdgeInsets.only(top: 15),
-                    width: 385,
+                    width: 395,
                     height: 232,
                     decoration: BoxDecoration(
                       color: Color(0xffC6F8F6),
@@ -100,7 +100,7 @@ class Mangoes extends StatelessWidget {
                     ),
                   ),
                   Container(
-                    width: 385,
+                    width: 395,
                     height: 180,
                     decoration: BoxDecoration(
                       color: Color(0xffA0E7E5),
